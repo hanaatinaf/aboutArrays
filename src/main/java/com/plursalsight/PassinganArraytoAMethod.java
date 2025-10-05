@@ -63,7 +63,7 @@ public class PassinganArraytoAMethod {
         String[] name=  new String[names1];
 
          for (int i = 0; i <name.length; i++){
-            System.out.println("The index: " + i + "The Name" + (i+ 1)+ ":");
+            System.out.println(" The Name" + (i+ 1)+ ":");
             name[i] = scanner.nextLine();// stores the name
             // name.toString();
         }
